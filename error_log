@@ -1,0 +1,9 @@
+[19-Dec-2016 05:17:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u9425878/public_html/siakad/application/views/blok/table_blok_form.php on line 57
+[19-Dec-2016 05:18:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u9425878/public_html/siakad/application/views/blok/table_blok_form.php on line 57
+[19-Dec-2016 05:19:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u9425878/public_html/siakad/application/views/blok/table_blok_form.php on line 58
+[19-Dec-2016 05:20:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u9425878/public_html/siakad/application/views/blok/table_blok_form.php on line 58
+[19-Dec-2016 05:20:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u9425878/public_html/siakad/application/views/blok/table_blok_form.php on line 57
+[11-Jan-2017 11:49:00 UTC] PHP Parse error:  syntax error, unexpected 'status' (T_STRING), expecting '(' in /home/u9425878/public_html/siakad/application/views/dosen/table_dosen_list.php on line 71
+[11-Jan-2017 11:50:55 UTC] PHP Parse error:  syntax error, unexpected 'status' (T_STRING), expecting '(' in /home/u9425878/public_html/siakad/application/views/dosen/table_dosen_list.php on line 71
+[11-Jan-2017 11:51:09 UTC] PHP Parse error:  syntax error, unexpected 'status' (T_STRING), expecting '(' in /home/u9425878/public_html/siakad/application/views/dosen/table_dosen_list.php on line 71
+[12-Jan-2017 03:52:11 UTC] PHP Parse error:  syntax error, unexpected '`', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/u9425878/public_html/siakad/application/controllers/admin/Blok.php on line 86
